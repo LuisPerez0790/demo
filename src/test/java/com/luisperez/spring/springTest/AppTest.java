@@ -49,7 +49,7 @@ public class AppTest {
 		log.info(jugador.saludar());
 		
 	}
-	//some new changes
+	//some new changes 2.0
 //Esto se va a descontrolar
 	
 	
