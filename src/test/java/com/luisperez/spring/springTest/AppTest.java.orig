@@ -17,8 +17,8 @@ import com.luisperez.spring.springTest.api.IJugador;
 import lombok.extern.slf4j.Slf4j;
 
 @Slf4j
-@RunWith(SpringJUnit4ClassRunner.class)
-@ContextConfiguration("classpath:futbolConfiguration.xml")
+/*@RunWith(SpringJUnit4ClassRunner.class)
+@ContextConfiguration("classpath:futbolConfiguration.xml")*/
 public class AppTest {
 	
 	private static ApplicationContext applicationContext;
@@ -55,7 +55,13 @@ public class AppTest {
 	
 	//this is a comment for push commit
 	
+<<<<<<< HEAD
+	//this is a change in the nrebranch
 	//Kamehameha
+=======
+	//this is a change in the nrebranch kamehamehahaaaaaa 1
+	
+>>>>>>> newBranch
 	
 	
 	

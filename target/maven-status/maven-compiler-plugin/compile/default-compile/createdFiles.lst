@@ -1,0 +1,7 @@
+com\luisperez\spring\springTest\api\IJugador.class
+com\luisperez\spring\springTest\beans\FutbolistaEstrella.class
+com\luisperez\spring\springTest\JugadorFutbol.class
+com\luisperez\spring\springTest\Equipo.class
+com\luisperez\spring\sprinTest\configuration\ConfigurationBeansTeam.class
+com\luisperez\spring\sprinTest\configuration\ComponentScanConfiguration.class
+com\luisperez\spring\springTest\beans\Futbolista.class

@@ -1,5 +1,4 @@
-*.log
-*.origHello my name is Luis Enrique and I had been working in a company named Anzen solutions for four and half years, there we work for a client, for a bank called banamex
+Hello my name is Luis Enrique I studied Computer Science Engineer at Escuela Superior de Cómputo and I had been working in a company named Anzen solutions for four and half years, there,, we work for a client, for a bank called citibanamex
 
 I was in the mobile department, but I was in charge of developing the middleware part ,In other words i developed Web services SOAP and REST using spring-, hibernate-,javaee-, for data base we used oracle, sql, and our application server was weblogic.
 
@@ -7,3 +6,7 @@ So there basically we developed new modules applying bussines rules, for example
 Optimizing response times, CRUD of accounts, developing of SOAP clients to comiunicate with others systems to retrive some information that we needed in that moment, also we create new applications from scratch for example, we developed web services SOAP with the most used functionalities for the features phones, and implementing the USSD protocol to comiunicate with the web sevices, also we developed a new app which is focused on moral people, here we use phonegap and all the characteristics of the web development, like html5, css, ionic, angularjs,this project was led by me and at the same time I was a front-end developer.
 
 In those projects generally we used Java enterprise edition, Spring, hibernate, stored procedures, simple querys. 
+
+
+
+    
