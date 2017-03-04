@@ -54,8 +54,7 @@ public class AppTest {
 	//adding this for stashing
 	
 	//this is a comment for push commit
-	
-	//Kamehameha
+
 	
 	
 	
